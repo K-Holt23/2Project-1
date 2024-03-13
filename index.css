@@ -1,0 +1,17 @@
+:root {
+    --primary: #ffffff;
+    --secondary: #000000;
+    --accent: #90D5FF;
+    --primary-rgb: (255, 255, 255);
+    --secondary-rgb: (0, 0, 0);
+    --accent-rgb: (144, 213, 255);
+}
+
+.hero-container {
+    height: 100vh;
+    background-color: var(secondary);
+}
+
+.carousel {
+    border-radius: 15px;
+}
